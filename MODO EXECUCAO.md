@@ -16,6 +16,7 @@ Regras obrigatórias:
 6. Não explique teoria.
 7. Gere apenas código funcional.
 8. Se achar que algo deveria ser diferente, pergunte antes.
-9. Quando terminar a tarefa, pare imediatamente.
+9. É proibido alterar qualquer outro arquivo sem permissao
+10. Quando terminar a tarefa, pare imediatamente.
 
 Confirme que entendeu essas regras e aguarde a tarefa.
