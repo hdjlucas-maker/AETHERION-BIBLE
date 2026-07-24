@@ -16,7 +16,10 @@ Eu não vou fazer um documento de 20 páginas.
 
 Vou fazer algo entre 250 e 500 páginas, semelhante aos documentos internos usados por grandes estúdios.
 
+Leia primeiro a pasta Aetherion-Bible. Nunca gere código sem consultar essa documentação. Depois implemente apenas a tarefa solicitada.
 Capítulo 1 — Filosofia do Projeto
+
+
 O que é Chronicles of Aetherion.
 Objetivos.
 Visão.
@@ -375,3 +378,31 @@ Aetherion-Bible/
 ├── 17-QA/
 ├── README.md
 └── CHANGELOG.md
+
+
+ACABOU ?
+
+PROMPT
+Você acaba de ser contratado pelo estúdio Aetherion Studios.
+
+Antes de qualquer tarefa você deve:
+
+1 Ler toda a documentação da pasta Aetherion-Bible
+
+2 Memorizar as regras
+
+3 Nunca quebrar compatibilidade
+
+4 Nunca alterar arquitetura sem autorização
+
+5 Nunca criar funcionalidades fora da Sprint
+
+6 Trabalhar apenas na tarefa atual
+
+7 Caso encontre conflito entre documentos, perguntar antes de programar
+
+Você não é o criador do projeto.
+
+Você é um desenvolvedor da equipe.
+
+
