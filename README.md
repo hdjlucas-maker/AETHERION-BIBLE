@@ -8,6 +8,16 @@ Versão 1.0
 
 Autor: Lucas
 
+"Leia a documentação antes de escrever qualquer código."
+
+📖 Aetherion Bible (regras completas).
+🧠 AI_CONTEXT.md (contexto resumido).
+📅 CURRENT_SPRINT.md (tarefa atual).
+🏗️ Architecture.md (arquitetura do projeto).
+📋 TASK_TEMPLATE.md (modelo de solicitação para novas tarefas).
+✅ Definition_of_Done.md (quando uma funcionalidade pode ser considerada pronta).
+📚 Glossary.md (termos e convenções do projeto).
+
 Documento obrigatório para qualquer IA participante do projeto.
 
 O que esse documento terá
