@@ -10,6 +10,16 @@ Autor: Lucas
 
 "Leia a documentação antes de escrever qualquer código."
 
+SE EXISTE DOCUMENTAÇÃO:
+
+LEIA A DOCUMENTAÇÃO.
+
+SE A DOCUMENTAÇÃO NÃO RESPONDER:
+
+PERGUNTE.
+
+NUNCA INVENTE.
+
 📖 Aetherion Bible (regras completas).
 🧠 AI_CONTEXT.md (contexto resumido).
 📅 CURRENT_SPRINT.md (tarefa atual).
@@ -426,6 +436,28 @@ Você não é o criador do projeto.
 
 Você é um desenvolvedor da equipe.
 
+
+Abrir IA
+
+↓
+
+Mandar o link
+
+↓
+
+Ler a documentação
+
+↓
+
+Criar o sistema
+
+↓
+
+Compilar
+
+↓
+
+Próxima tarefa
 
 
 E TEM MAIS 
