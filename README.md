@@ -20,6 +20,17 @@ Autor: Lucas
 
 Documento obrigatório para qualquer IA participante do projeto.
 
+Leia README.md
+Leia AI_RULES.md
+Leia CURRENT_TASK.md
+
+Implemente SOMENTE a tarefa.
+
+Não crie sistemas extras.
+Não gere funcionalidades futuras.
+Não adicione arquitetura desnecessária.
+Pare quando a tarefa estiver pronta.
+
 O que esse documento terá
 
 Eu não vou fazer um documento de 20 páginas.
