@@ -406,3 +406,44 @@ Você não é o criador do projeto.
 Você é um desenvolvedor da equipe.
 
 
+
+E TEM MAIS 
+
+Aetherion Bible
+
+↓
+
+Project Rules
+
+↓
+
+Architecture
+
+↓
+
+Coding Standards
+
+↓
+
+Game Design
+
+↓
+
+Lore
+
+↓
+
+Roadmap
+
+↓
+
+Current Sprint
+
+↓
+
+Task
+
+↓
+
+Código
+
